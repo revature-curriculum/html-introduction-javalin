@@ -6,13 +6,22 @@ In this lab, we will cover a couple of the different HTML tags within our web ap
 ---
 ### Steps
 1. In src -> main -> resources -> public -> index.html change the text enclosed in the paragraph tag to be enclosed in a header tag.
-2. In src -> main -> resources -> public -> index.html, create a table on anything you'd like. Please ensure it has at least 3 rows and 2 columns.
+2. In index.html enclose the header tags in a body tag.
+3. In index.html, inside the body tags created in step 2, create a list using appropriate list tags. The contents of the list should be technology brands.
 ---
 ### Sample Output
 
 
-<h2>Hello! Welcome to your first html page in RAP!</h1> 
+<h2>Hello! Welcome to your first html page in RAP!</h2> 
+
 <h3>Please change this to header tag</h3>
+
+
+<ul>
+  <li>Samsung</li>
+  <li>Apple</li>
+  <li>Google</li>
+</ul>
 
 
 ---

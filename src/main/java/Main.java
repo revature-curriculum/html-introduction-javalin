@@ -7,7 +7,7 @@ public class Main {
 
         Javalin app = Javalin.create(config -> {config.addStaticFiles("/public", Location.CLASSPATH);}).start(4100);
         
-        // app.get("/", ctx -> ctx.render("index.html"));
+        app.get("/", ctx -> ctx.render("index.html"));
 
     }
 }

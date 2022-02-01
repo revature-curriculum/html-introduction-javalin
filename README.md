@@ -14,29 +14,5 @@ In this lab, we will cover a couple of the different HTML tags within our web ap
 <h2>Hello! Welcome to your first html page in RAP!</h1> 
 <h3>Please change this to header tag</h3>
 
-<h1> </h1>
-<table>
-  <tr>
-    <th> id </th>
-    <th> name </th>
-    <th> country </th>
-  </tr>
-  <tr>
-    <td> 0 </td>
-    <td> John </td>
-    <td> Canada </td>
-  </tr>
-  <tr>
-    <td> 1 </td>
-    <td> Mary </td>
-    <td> Norway </td>
-  </tr>
-  <tr>
-    <td> 2 </td>
-    <td> Joe </td>
-    <td> USA </td>
-  </tr>
- </table>
-
 
 ---

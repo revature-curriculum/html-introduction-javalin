@@ -5,9 +5,9 @@ In this lab, we will cover a couple of the different HTML tags within our web ap
 
 ---
 ### Steps
-1. In src -> main -> resources -> public -> index.html change the text enclosed in the paragraph tag to be enclosed in a header tag.
-2. In index.html enclose the header tags in a body tag.
-3. In index.html, inside the body tags created in step 2, create a list using appropriate list tags. The contents of the list should be technology brands.
+1. In src -> main -> resources -> public -> index.html, change the text enclosed in the paragraph tag to be enclosed in a header tag.
+2. In the same file, enclose the header tags in a body tag.
+3. In the same file, inside the body tags created in step 2, create a list using appropriate list tags. The contents of the list should be technology brands.
 ---
 ### Sample Output
 

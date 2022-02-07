@@ -1,4 +1,4 @@
-## Javalin HTML Challenge
+## HTML Introduction
 ---
 ### Description
 In this lab, we will cover a couple of the different HTML tags within our web application.
